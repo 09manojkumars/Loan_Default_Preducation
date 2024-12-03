@@ -39,4 +39,4 @@ Perecentage of Loan Amount interest
 How much month should a customer take to repay the loan
 
 # Final results
-To solve this project I built 3 machine learning models: logistic regression, decision tree and random forest (baseline and tuned versions). The best performance was obtained by the tuned decision tree model: 0.77 accuracy, 0.97 recall and 0.79 precision.
+To solve this project I built 3 machine learning models: logistic regression, decision tree and random forest (baseline and tuned versions). The best performance was obtained by the tuned decision tree model: 0.79 accuracy, 0.99 recall and 0.80 precision.
